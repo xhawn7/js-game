@@ -1,0 +1,19 @@
+.bg {
+  background-color: #87ceeb;
+  position: relative;
+  height: 90vh;
+}
+
+.btn{
+  position: absolute;
+  top: 50%;
+  left: calc(50% - 100px);
+  width: 200px;
+  height: 50px;
+  background-color: azure;
+}
+
+.btn:hover{
+  background-color: #00ffff02;
+}
+
